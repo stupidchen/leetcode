@@ -3,31 +3,32 @@ import java.lang.System;
 import java.util.Scanner;
 
 public class P005 {
+    private int[][] f;
+    private int ansStart, ans;
+
     public String longestPalindrome(String s) {
-        int len = s.length();
+        int n = s.length();
+        if (n == 0) return s;
 
-        if (len <= 1) return s;
+        if (new StringBuffer(s).reverse().toString().equals(s)) return s;
+        ans = 1;
+        ansStart = 0;
+        f = new int[n][n];
 
-
-        int[][] f = new int[len][len];
-        int ansi = 0, ans = 0;
-
-        for (int i = 0; i < len; i++)
-            for (int j = 0; j < len; j++) {
-                f[i][j] = 0;
-                if (s.charAt(i) == s.charAt(len - j - 1)) {
-                    if (i > 0 && j > 0 && f[i - 1][j - 1] + 1 > f[i][j]) f[i][j] = f[i - 1][j - 1] + 1;
-                    else {
-                        if (i == 0 || j == 0) f[i][j] = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            f[i][i] = 1;
+            for (int j = i + 1; j < n; j++) {
+                if ((j - i == 1 || f[i + 1][j - 1] != 0) && (s.charAt(i) == s.charAt(j))) {
+                    f[i][j] = f[i + 1][j - 1] + 2;
+                    if (f[i][j] > ans) {
+                        ans = f[i][j];
+                        ansStart = i;
                     }
                 }
-                if (f[i][j] > ans) {
-                    ans = f[i][j];
-                    ansi = i;
-                }
             }
+        }
 
-        return s.substring(ansi - ans + 1, ansi + 1);
+        return s.substring(ansStart, ansStart + ans);
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

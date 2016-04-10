@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.List;
 
-public class P002_2 {
+public class P002 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode lastL1 = null, result = l1;
         boolean nullL1 = (l1 == null);
