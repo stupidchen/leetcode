@@ -1,38 +1,34 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 /**
  * Created by mike on 4/10/16.
  */
 public class P015 {
-    public int romanToInt(String s) {
-        Map digitValue = new HashMap<Character, Integer>();
-        digitValue.put(Character.valueOf('I'), Integer.valueOf(1));
-        digitValue.put(Character.valueOf('V'), Integer.valueOf(5));
-        digitValue.put(Character.valueOf('X'), Integer.valueOf(10));
-        digitValue.put(Character.valueOf('L'), Integer.valueOf(50));
-        digitValue.put(Character.valueOf('C'), Integer.valueOf(100));
-        digitValue.put(Character.valueOf('D'), Integer.valueOf(500));
-        digitValue.put(Character.valueOf('M'), Integer.valueOf(1000));
+    public List<List<Integer>> threeSum(int[] nums) {
+        Arrays.sort(nums);
 
-        int n = s.length();
-        if (n == 0)  return 0;
+        List<List<Integer>> ret = new ArrayList<>();
 
-        int i = n - 1, ret = 0;
-        while (i >= 0) {
-            int valueThis = (Integer)digitValue.get(Character.valueOf(s.charAt(i)));
-            int valueNext;
-            if (i > 0)
-                valueNext = (Integer)digitValue.get(Character.valueOf(s.charAt(i - 1)));
-            else
-                valueNext = Integer.MAX_VALUE;
-            if (valueNext < valueThis) {
-                ret += valueThis - valueNext;
-                i--;
+        int n = nums.length;
+        if (n <= 2) return ret;
+
+        for (int i = 0; i < n; i++)
+            if (i == 0 || nums[i] != nums[i - 1]) {
+                for (int j = i + 1; j < n; j++) {
+                    if (j == i + 1 || nums[j] != nums[j - 1]) {
+                        int t = 0 - nums[i] - nums[j];
+                        if (Arrays.binarySearch(nums, j + 1, n, t) >= 0) {
+                            List temp = new ArrayList<Integer>();
+                            temp.add(Integer.valueOf(nums[i]));
+                            temp.add(Integer.valueOf(nums[j]));
+                            temp.add(Integer.valueOf(t));
+                            ret.add(temp);
+                        }
+                    }
+                }
             }
-            else ret += valueThis;
-            i--;
-        }
 
         return ret;
     }
