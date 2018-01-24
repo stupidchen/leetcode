@@ -23,17 +23,49 @@ public class P030 {
         int lw = words[0].length();
         for (int i = 0; i < lw; i++) {
             HashMap<String, Integer> tacc = (HashMap<String, Integer>) acc.clone();
-            for (int j = 0; j < n - lw; j += lw) {
+            int t = 0;
+            for (int j = i; j <= n - lw; j += lw) {
                 String word = s.substring(j, j + lw);
                 Integer last = tacc.get(word);
-                if (last == null || last == 0) {
+                if (last == null) {
                     tacc = (HashMap<String, Integer>) acc.clone();
+                    t = 0;
                 }
                 else {
-                    last--;
-                    tacc.
+                    if (last > 0) {
+                        last--;
+                        tacc.put(word, last);
+                        t++;
+                        if (t == m) {
+                            can[j - (t - 1) * lw] = true;
+                            String wordOfHead = s.substring(j - (t - 1) * lw, j - (t - 2) * lw);
+                            tacc.put(wordOfHead, tacc.get(wordOfHead) + 1);
+                            t--;
+                        }
+                    }
+                    else {
+                        while (last == 0) {
+                            String wordOfHead = s.substring(j - t * lw, j - (t - 1) * lw);
+                            tacc.put(wordOfHead, tacc.get(wordOfHead) + 1);
+                            last = tacc.get(word);
+                            t--;
+                        }
+                        last--;
+                        tacc.put(word, last);
+                        t++;
+                    }
                 }
             }
         }
+
+        for (int i = 0; i < n; i++)
+            if (can[i]) ret.add(i);
+        return ret;
+    }
+
+    public static void main(String[] args) {
+        P030 p = new P030();
+        List<Integer> ans = p.findSubstring("aaaaa", new String[]{"aa", "aa"});
+        System.out.println(ans);
     }
 }
