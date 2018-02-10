@@ -28,16 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P088.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P088.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="P039.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P039.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,12 +103,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P055.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P055.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P055.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="558">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P054.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/P054.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -185,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/P042.java" />
         <option value="$PROJECT_DIR$/src/P045.java" />
         <option value="$PROJECT_DIR$/src/P055.java" />
+        <option value="$PROJECT_DIR$/src/P054.java" />
       </list>
     </option>
   </component>
@@ -816,12 +819,12 @@
       <workItem from="1516626967046" duration="3382000" />
       <workItem from="1516715731986" duration="3680000" />
       <workItem from="1516803129418" duration="21575000" />
-      <workItem from="1517835403631" duration="18771000" />
+      <workItem from="1517835403631" duration="21650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85133000" />
+    <option name="totallyTimeSpent" value="88012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1279" height="1439" extended-state="4" />
@@ -963,13 +966,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/P190.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/P001.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1301,9 +1297,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/P055.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="558">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P054.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
