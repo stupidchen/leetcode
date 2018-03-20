@@ -20,7 +20,8 @@ public class P093 {
             if (cur + i > str.length()) break;
             String ts = str.substring(cur, cur + i);
             int t = Integer.valueOf(ts);
-            ts = String.valueOf(t);
+            String tts = String.valueOf(t);
+            if (!tts.equals(ts)) continue;
             if (adn != 0) ts = '.' + ts;
             if (t <= 255) solve(str, solution + ts, cur + i, adn + 1);
         }
