@@ -30,23 +30,17 @@ public class P087 {
         for (int i = 0; i < n; i++)
             for (int j = 0; j < n; j++) {
                 int[] c = new int[128];
-                int count = 0;
                 for (int k = 0; j + k < n && i + k < n; k++) {
                     c[s1.charAt(i + k)]++;
                     c[s2.charAt(j + k)]--;
-                    if (c[s1.charAt(i + k)] != 0)
-                        count++;
-                    else
-                        count--;
-                    if (c[s2.charAt(j + k)] != 0)
-                        count++;
-                    else
-                        count--;
+                    int count = 0;
+                    for (char q = 'A'; q <= 'z'; q++)
+                        if (c[q] != 0) {
+                            count++;
+                            break;
+                        }
+
                     if (count != 0) v[i][i + k][j][j + k] = true;
-                    if (count == 0) {
-                        v[i][i + k][j][j + k] = true;
-                        f[i][i + k][j][j + k] = true;
-                    }
                 }
             }
         return solve(0, n - 1, 0, n - 1);
@@ -54,6 +48,6 @@ public class P087 {
 
     public static void main(String[] args) {
         P087 p = new P087();
-        System.out.println(p.isScramble("rgtae", "great"));
+        System.out.println(p.isScramble("vfldiodffghyq", "vdgyhfqfdliof"));
     }
 }
