@@ -1,3 +1,5 @@
+package leetcode
+
 func titleToNumber(s string) int {
     var ret = 0
     if len(s) == 0 {
