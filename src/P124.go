@@ -24,13 +24,13 @@ func solveOnePathSum(cur *TreeNodeWrapper) int {
 	var l = 0
 	var r = 0
 	if cur.left != nil {
-		l = solveOnePathSum(cur.left)
+		l = max(0, solveOnePathSum(cur.left))
 	}
 	if cur.right != nil {
-		r = solveOnePathSum(cur.right)
+		r = max(0, solveOnePathSum(cur.right))
 	}
-	cur.f = cur.node.Val
-	return cur.f + max(l, r)
+	cur.f = cur.node.Val + max(l, r)
+	return cur.f
 }
 
 func solveTwoPathSum(cur *TreeNodeWrapper) int {
@@ -38,11 +38,11 @@ func solveTwoPathSum(cur *TreeNodeWrapper) int {
 	var ret = t
 	if cur.left != nil {
 		ret = max(ret, solveTwoPathSum(cur.left))
-		t += cur.left.f
+		t += max(0, cur.left.f)
 	}
 	if cur.right != nil {
 		ret = max(ret, solveTwoPathSum(cur.right))
-		t += cur.right.f
+		t += max(0, cur.right.f)
 	}
 	ret = max(ret, t)
 	return ret
