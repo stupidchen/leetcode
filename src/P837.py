@@ -10,4 +10,7 @@ class Solution:
             if i > K:
                 f[i] -= (f[i - 1] - f[K - 1]) / W
 
-        return (f[N] - f[K - 1]) / (f[K + W - 1] - f[K - 1])
+        if f[K + W - 1] - f[K - 1] != 0:
+            return (f[N] - f[K - 1]) / (f[K + W - 1] - f[K - 1])
+        else:
+            return 1.0
