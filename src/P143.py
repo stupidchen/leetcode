@@ -12,8 +12,8 @@ class Solution:
             tmp.append(i)
             i = i.next
         n = len(tmp)
-        if n <= 1:
-            return head
+        if n <= 2:
+            return
         for k in range(n >> 1):
             if k < n - 1 - k:
                 tmp[k].next = tmp[n - 1 - k]
@@ -23,4 +23,4 @@ class Solution:
                     tmp[n - 1 - k].next = None
             else:
                 break
-        return head
+        tmp[n >> 1].next = None
