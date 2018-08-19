@@ -29,5 +29,6 @@ class Solution:
         self.solve(0, k, n, [0] * k)
         return self.ret
 
+
 if __name__ == '__main__':
     print(Solution().combinationSum3(2, 18))
