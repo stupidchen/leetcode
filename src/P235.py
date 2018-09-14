@@ -7,7 +7,7 @@
 
 class Solution:
     def lowestCommonAncestor(self, root, p, q):
-        if (root.val - p.val) * (root.val - q.val) < 0:
+        if (root.val - p.val) * (root.val - q.val) <= 0:
             return root
         if root.val - p.val < 0:
             return self.lowestCommonAncestor(root.right, p, q)
