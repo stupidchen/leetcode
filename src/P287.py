@@ -4,3 +4,9 @@ class Solution:
         :type nums: List[int]
         :rtype: int
         """
+        d = {}
+        for num in nums:
+            if num in d:
+                return num
+            else:
+                d[num] = True
