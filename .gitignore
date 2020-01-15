@@ -75,3 +75,6 @@ fabric.properties
 # Custom configuration
 *.iml
 .idea/
+
+# virtualenv
+venv*/
