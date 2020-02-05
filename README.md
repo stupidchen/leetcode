@@ -1,7 +1,6 @@
-# Leetcode Solution 
+# Algorithm Solution 
 
-This repository includes the original solution of algorithm problems on [LeetCode](https://leetcode.com/).
+This repository includes the original solution of algorithm problems from these websites:
 
-The Work in progress
-
+* [LeetCode](https://leetcode.com/) (All related program will have prefix **P**, such as **P218.py**)
 
