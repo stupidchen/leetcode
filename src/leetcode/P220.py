@@ -19,7 +19,7 @@ class Treap(object):
     #    / \     / \
     #   d   e   b   d
     @staticmethod
-    def _zip(node):
+    def _zig(node):
         a = node
         c = node.r
         a.r = c.l
@@ -32,7 +32,7 @@ class Treap(object):
     #  / \             / \
     # b   d           d   e
     @staticmethod
-    def _zap(node):
+    def _zag(node):
         c = node
         a = node.l
         c.l = a.r
@@ -52,11 +52,11 @@ class Treap(object):
             if node.v < value:
                 node.r = self._add(node.r, value)
                 if node.r.ra < node.ra:
-                    node = self._zip(node)
+                    node = self._zig(node)
             else:
                 node.l = self._add(node.l, value)
                 if node.l.ra < node.ra:
-                    node = self._zap(node)
+                    node = self._zag(node)
         return node
 
     def remove(self, value):
@@ -71,7 +71,7 @@ class Treap(object):
                 node.c -= 1
             else:
                 if node.l is not None:
-                    node = self._zap(node)
+                    node = self._zag(node)
                     node.r = self._remove(node.r, value)
                 else:
                     node = node.r
