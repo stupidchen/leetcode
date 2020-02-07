@@ -32,6 +32,6 @@ SI = (([[2, 9, 10], [3, 7, 15], [5, 12, 12], [15, 20, 10], [19, 24, 8]],), ([[1,
 SO = ([[2, 10], [3, 15], [7, 12], [12, 0], [15, 10], [20, 8], [24, 0]], [[1, 3], [2, 0]])
 TM = 'getSkyline'
 if __name__ == '__main__':
-    from PTester import PTester
+    from leetcode.PTester import PTester
 
     PTester(SI, SO, Solution, TM).run()

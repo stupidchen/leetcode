@@ -29,6 +29,6 @@ SI = ((111,), (13,), (20,))
 SO = (36, 6, 12)
 TM = 'countDigitOne'
 if __name__ == '__main__':
-    from PTester import PTester
+    from leetcode.PTester import PTester
 
     PTester(SI, SO, Solution, TM).run()
