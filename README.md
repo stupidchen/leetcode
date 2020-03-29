@@ -54,3 +54,7 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 181|1390|5178|
 |Weekly Contest 181|1391|5366|
 |Weekly Contest 181|1392|5367|
+|Weekly Contest 182|1394|5368|
+|Weekly Contest 182|1395|5369|
+|Weekly Contest 182|1396|5370|
+|Weekly Contest 182|1397|5371|
