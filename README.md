@@ -58,3 +58,21 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 182|1395|5369|
 |Weekly Contest 182|1396|5370|
 |Weekly Contest 182|1397|5371|
+|Biweekly Contest 23|1399|5360|
+|Biweekly Contest 23|1400|5362|
+|Biweekly Contest 23|1401|5361|
+|Biweekly Contest 23|1402|5363|
+|Weekly Contest 183|1403|5376|
+|Weekly Contest 183|1404|5377|
+|Weekly Contest 183|1405|5195|
+|Weekly Contest 183|1406|5379|
+
+## 30-Day Leetcoding Challenge problem number 
+
+|Week|Day|Real number|
+|:---|:---|:----|
+|1|1|3283|
+|1|2|3284|
+|1|3|3285|
+|1|4|3286|
+|1|5|3287|
