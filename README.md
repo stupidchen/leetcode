@@ -78,3 +78,5 @@ This repository includes the **original** solution of algorithm problems from th
 |1|5|3287|
 |1|6|3288|
 |1|7|3289|
+|2|1|3290|
+|2|2|3291|
