@@ -80,3 +80,4 @@ This repository includes the **original** solution of algorithm problems from th
 |1|7|3289|
 |2|1|3290|
 |2|2|3291|
+|2|3|3292|
