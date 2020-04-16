@@ -90,3 +90,4 @@ This repository includes the **original** solution of algorithm problems from th
 |2|6|3298|
 |2|7|3299|
 |3|1|3300|
+|3|2|3301|
