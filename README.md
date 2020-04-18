@@ -70,6 +70,10 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 184|1409|5381|
 |Weekly Contest 184|1410|5382|
 |Weekly Contest 184|1411|5383|
+|Biweekly Contest 24|1413|5372|
+|Biweekly Contest 24|1414|5373|
+|Biweekly Contest 24|1415|5374|
+|Biweekly Contest 24|1416|5375|
 
 ## 30-Day Leetcoding Challenge problem number 
 
