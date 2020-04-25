@@ -1,7 +1,7 @@
 /**
  * Created by mike on 2/15/18.
  */
-public class P064 {
+public class P3303 {
     public int minPathSum(int[][] grid) {
         int m = grid.length;
         if (m == 0) return 0;
