@@ -82,8 +82,12 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 186|1423|Not attend|
 |Weekly Contest 186|1424|Not attend|
 |Weekly Contest 186|1425|Not attend|
+|Biweekly Contest 25|1431|5384|
+|Biweekly Contest 25|1432|5385|
+|Biweekly Contest 25|1433|5386|
+|Biweekly Contest 25|1434|5387|
 
-## 30-Day Leetcoding Challenge problem number 
+## 30-Day Leetcoding Challenge problem number (April, 2020) (Done) 
 
 |Week|Day|Real number|
 |:---|:---|:----|
