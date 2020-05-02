@@ -127,3 +127,4 @@ This repository includes the **original** solution of algorithm problems from th
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
 |1|1|3316|278|
+|1|2|3317|771|
