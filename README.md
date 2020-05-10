@@ -90,6 +90,10 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 187|1437|5401|
 |Weekly Contest 187|1438|5402|
 |Weekly Contest 187|1439|5403|
+|Weekly Contest 188|1441|5404|
+|Weekly Contest 188|1442|5405|
+|Weekly Contest 188|1443|5406|
+|Weekly Contest 188|1444|5407|
 
 ## 30-Day Leetcoding Challenge problem number (April, 2020) (Done) 
 
