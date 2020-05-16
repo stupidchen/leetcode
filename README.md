@@ -149,3 +149,4 @@ This repository includes the **original** solution of algorithm problems from th
 |2|6|3328|402|
 |2|7|3329|208|
 |3|1|3330|918|
+|3|2|3331|328|
