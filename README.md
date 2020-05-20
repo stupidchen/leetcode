@@ -161,3 +161,4 @@ This repository includes the **original** solution of algorithm problems from th
 |3|3|3332|438|
 |3|4|3333|567|
 |3|5|3334|902|
+|3|6|3335|230|
