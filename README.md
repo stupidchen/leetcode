@@ -172,3 +172,4 @@ This repository includes the **original** solution of algorithm problems from th
 |4|3|3339|1008|
 |4|4|3340|1035|
 |4|5|3341|525|
+|4|6|3342|886|
