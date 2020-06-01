@@ -142,7 +142,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|1|3314|
 |5|2|3315|
 
-## 30-Day Leetcoding Challenge problem number (May, 2020)
+## 30-Day Leetcoding Challenge problem number (May, 2020) (Done)
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -177,3 +177,9 @@ This repository includes the **original** solution of algorithm problems from th
 |5|1|3344|207|
 |5|2|3345|973|
 |5|3|3346|72|
+
+## 30-Day Leetcoding Challenge problem number (June, 2020) (Done)
+
+|Week|Day|Real number|Number in problem set|
+|:---|:---|:----|:----|
+|1|1|3347|226|
