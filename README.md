@@ -187,3 +187,4 @@ This repository includes the **original** solution of algorithm problems from th
 |1|3|3349|1029|
 |1|4|3350|344|
 |1|5|3351|528|
+|1|6|3352|406|
