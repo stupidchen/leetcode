@@ -107,6 +107,7 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 190|1457|5418|
 |Weekly Contest 190|1458|5419|
 
+
 ## 30-Day Leetcoding Challenge problem number (April, 2020) (Done) 
 
 |Week|Day|Real number|
@@ -192,3 +193,4 @@ This repository includes the **original** solution of algorithm problems from th
 |2|1|3354|231|
 |2|2|3355|392|
 |2|3|3356|35|
+|2|4|3357|75|
