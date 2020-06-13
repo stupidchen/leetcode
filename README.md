@@ -114,6 +114,10 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 191|1465|Not attend|
 |Weekly Contest 191|1466|Not attend|
 |Weekly Contest 191|1467|Not attend|
+|Weekly Contest 192|1470|Not attend|
+|Weekly Contest 192|1471|Not attend|
+|Weekly Contest 192|1472|Not attend|
+|Weekly Contest 192|1473|Not attend|
 
 ## 30-Day Leetcoding Challenge problem number (April, 2020) (Done) 
 
