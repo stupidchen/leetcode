@@ -78,10 +78,10 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 185|1418|5389|
 |Weekly Contest 185|1419|5390|
 |Weekly Contest 185|1420|5391|
-|Weekly Contest 186|1422|Not attend|
-|Weekly Contest 186|1423|Not attend|
-|Weekly Contest 186|1424|Not attend|
-|Weekly Contest 186|1425|Not attend|
+|Weekly Contest 186|1422|Not attended|
+|Weekly Contest 186|1423|Not attended|
+|Weekly Contest 186|1424|Not attended|
+|Weekly Contest 186|1425|Not attended|
 |Biweekly Contest 25|1431|5384|
 |Biweekly Contest 25|1432|5385|
 |Biweekly Contest 25|1433|5386|
@@ -106,18 +106,18 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 190|1456|5417|
 |Weekly Contest 190|1457|5418|
 |Weekly Contest 190|1458|5419|
-|Biweekly Contest 27|1460|Not attend|
-|Biweekly Contest 27|1461|Not attend|
-|Biweekly Contest 27|1462|Not attend|
-|Biweekly Contest 27|1463|Not attend|
-|Weekly Contest 191|1464|Not attend|
-|Weekly Contest 191|1465|Not attend|
-|Weekly Contest 191|1466|Not attend|
-|Weekly Contest 191|1467|Not attend|
-|Weekly Contest 192|1470|Not attend|
-|Weekly Contest 192|1471|Not attend|
-|Weekly Contest 192|1472|Not attend|
-|Weekly Contest 192|1473|Not attend|
+|Biweekly Contest 27|1460|Not attended|
+|Biweekly Contest 27|1461|Not attended|
+|Biweekly Contest 27|1462|Not attended|
+|Biweekly Contest 27|1463|Not attended|
+|Weekly Contest 191|1464|Not attended|
+|Weekly Contest 191|1465|Not attended|
+|Weekly Contest 191|1466|Not attended|
+|Weekly Contest 191|1467|Not attended|
+|Weekly Contest 192|1470|Not attended|
+|Weekly Contest 192|1471|Not attended|
+|Weekly Contest 192|1472|Not attended|
+|Weekly Contest 192|1473|Not attended|
 
 ## 30-Day Leetcoding Challenge problem number (April, 2020) (Done) 
 
@@ -207,3 +207,4 @@ This repository includes the **original** solution of algorithm problems from th
 |2|4|3357|75|
 |2|5|3358|380|
 |2|6|3359|368|
+|2|7|3360|787|
