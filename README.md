@@ -210,3 +210,4 @@ This repository includes the **original** solution of algorithm problems from th
 |2|7|3360|787|
 |3|1|3361|700|
 |3|2|3362|468|
+|3|3|3363|130|
