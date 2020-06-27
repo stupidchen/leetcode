@@ -223,3 +223,5 @@ This repository includes the **original** solution of algorithm problems from th
 |4|2|3369|222|
 |4|3|3370|96|
 |4|4|3371|287|
+|4|5|3372|129|
+|4|6|3373|279|
