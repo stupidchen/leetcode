@@ -243,3 +243,4 @@ This repository includes the **original** solution of algorithm problems from th
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
 |1|1|3377|441|
+|1|2|3378|107|
