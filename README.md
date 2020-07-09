@@ -250,3 +250,4 @@ This repository includes the **original** solution of algorithm problems from th
 |1|6|3382|66|
 |1|7|3383|463|
 |2|1|3384|15|
+|2|2|3385|662|
