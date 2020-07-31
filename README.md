@@ -296,3 +296,4 @@ This repository includes the **original** solution of algorithm problems from th
 |4|7|3404|621|
 |5|1|3405|309|
 |5|2|3406|140|
+|5|3|3407|70|
