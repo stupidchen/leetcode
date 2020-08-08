@@ -158,6 +158,10 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 200|1535|Not attend|
 |Weekly Contest 200|1536|Not attend|
 |Weekly Contest 200|1537|Not attend|
+|Biweekly Contest 32|1539|Unknown|
+|Biweekly Contest 32|1540|Unknown|
+|Biweekly Contest 32|1541|Unknown|
+|Biweekly Contest 32|1542|Unknown|
 
 
 ## 30-Day Leetcoding Challenge problem number (April, 2020) (Done) 
