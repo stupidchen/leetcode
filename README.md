@@ -118,6 +118,10 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 192|1471|Not attended|
 |Weekly Contest 192|1472|Not attended|
 |Weekly Contest 192|1473|Not attended|
+|Biweekly Contest 28|1475|Not attended|
+|Biweekly Contest 28|1476|Not attended|
+|Biweekly Contest 28|1477|Not attended|
+|Biweekly Contest 28|1478|Not attended|
 |Weekly Contest 194|1486|5440|
 |Weekly Contest 194|1487|5441|
 |Weekly Contest 194|1488|5442|
