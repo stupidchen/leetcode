@@ -170,6 +170,10 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 201|1544|5484|
 |Weekly Contest 201|1545|5471|
 |Weekly Contest 201|1546|5486|
+|Weekly Contest 202|1550|5185|
+|Weekly Contest 202|1551|5488|
+|Weekly Contest 202|1552|5489|
+|Weekly Contest 202|1553|5490|
 
 
 ## 30-Day Leetcoding Challenge problem number (April, 2020) (Done) 
