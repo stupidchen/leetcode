@@ -1,4 +1,5 @@
 import random
+from functools import lru_cache
 
 
 class TreapNode(object):
@@ -139,6 +140,7 @@ class Treap(object):
         return self._find(self.root, value)
 
     @staticmethod
+    @lru_cache(maxsize=None)
     def _find(node, value):
         """
         Find a node with specific value from the subtree which the root is the specific node.
