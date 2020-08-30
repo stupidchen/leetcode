@@ -330,7 +330,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|2|3406|140|
 |5|3|3407|70|
 
-## 30-Day Leetcoding Challenge problem number (August, 2020)
+## 30-Day Leetcoding Challenge problem number (August, 2020 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -350,16 +350,18 @@ This repository includes the **original** solution of algorithm problems from th
 |2|7|3423|409|
 |3|1|3425|435|
 |3|2|3426|123|
-|3|2|3427|1103|
-|3|3|3428|927|
-|3|4|3429|824|
-|3|5|3430|143|
-|3|6|3431|905|
-|3|7|3432|497|
-|4|1|3434|1032|
-|4|2|3435|404|
-|4|3|3436|983|
-|4|4|3437|412|
-|4|5|3438|436|
-|4|6|3439|470|
-|4|7|3441|969|
+|3|3|3427|1103|
+|3|4|3428|927|
+|3|5|3429|824|
+|3|6|3430|143|
+|3|7|3431|905|
+|4|1|3432|497|
+|4|2|3434|1032|
+|4|3|3435|404|
+|4|4|3436|983|
+|4|5|3437|412|
+|4|6|3438|436|
+|4|7|3439|470|
+|5|1|3441|969|
+|5|2|3442|952|
+
