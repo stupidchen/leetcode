@@ -366,3 +366,8 @@ This repository includes the **original** solution of algorithm problems from th
 |5|2|3442|952|
 |5|3|3443|450|
 
+## 30-Day Leetcoding Challenge problem number (September)
+
+|Week|Day|Real number|Number in problem set|
+|:---|:---|:----|:----|
+|1|1|3445|949|
