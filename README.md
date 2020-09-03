@@ -371,3 +371,5 @@ This repository includes the **original** solution of algorithm problems from th
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
 |1|1|3445|949|
+|1|2|3446|220|
+|1|3|3447|459|
