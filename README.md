@@ -444,3 +444,5 @@ This repository includes the **original** solution of algorithm problems from th
 |2|2|3489|449|
 |2|3|3490|452|
 |2|4|3491|316|
+|2|5|3492|859|
+|2|6|3493|148|
