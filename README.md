@@ -459,3 +459,4 @@ This repository includes the **original** solution of algorithm problems from th
 |3|6|3501|133|
 |3|7|3502|735|
 |4|1|3504|111|
+|4|2|3505|456|
