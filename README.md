@@ -508,3 +508,4 @@ This repository includes the **original** solution of algorithm problems from th
 |2|6|3529|116|
 |2|7|3530|458|
 |3|1|3532|938|
+|3|2|3533|845|
