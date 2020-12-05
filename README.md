@@ -218,6 +218,10 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 211|1625|5544|
 |Weekly Contest 211|1626|5545|
 |Weekly Contest 211|1627|5128|
+|Weekly Contest 212|1629|Unknown|
+|Weekly Contest 212|1630|Unknown|
+|Weekly Contest 212|1631|Unknown|
+|Weekly Contest 212|1632|Unknown|
 |Biweekly Contest 38|1636|5539|
 |Biweekly Contest 38|1637|5540|
 |Biweekly Contest 38|1638|5541|
