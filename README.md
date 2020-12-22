@@ -570,3 +570,4 @@ This repository includes the **original** solution of algorithm problems from th
 |3|5|3571|1463|
 |3|6|3572|880|
 |3|7|3573|910|
+|4|1|3575|110|
