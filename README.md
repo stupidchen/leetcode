@@ -594,4 +594,5 @@ This repository includes the **original** solution of algorithm problems from th
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
 |1|1|3589|1640|
-|1|1|3590|1379|
+|1|2|3590|1379|
+|1|3|3591|526|
