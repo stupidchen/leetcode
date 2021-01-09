@@ -266,6 +266,10 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 221|1705|5638|
 |Weekly Contest 221|1706|5210|
 |Weekly Contest 221|1707|5640|
+|Biweekly Contest 43|1716|5633|
+|Biweekly Contest 43|1717|5634|
+|Biweekly Contest 43|1718|5635|
+|Biweekly Contest 43|1719|5636|
 
 
 ## 30-Day Leetcoding Challenge problem number (April, 2020) (Done) 
