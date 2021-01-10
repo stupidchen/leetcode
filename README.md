@@ -233,7 +233,7 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 214|1646|5561|
 |Weekly Contest 214|1647|5562|
 |Weekly Contest 214|1648|5563|
-|Weekly Contest 214|1649|5664|
+|Weekly Contest 214|1649|5564|
 |Biweekly Contest 39|1652|5550|
 |Biweekly Contest 39|1653|5551|
 |Biweekly Contest 39|1654|5552|
@@ -610,3 +610,4 @@ This repository includes the **original** solution of algorithm problems from th
 |1|7|3595|3|
 |2|1|3597|1662|
 |2|2|3598|127|
+|2|3|3599|1649|
