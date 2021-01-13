@@ -613,3 +613,4 @@ This repository includes the **original** solution of algorithm problems from th
 |2|3|3599|1649|
 |2|4|3600|88|
 |2|5|3601|2|
+|2|6|3602|881|
