@@ -640,3 +640,4 @@ This repository includes the **original** solution of algorithm problems from th
 |4|4|3616|1437|
 |4|5|3617|1631|
 |4|6|3618|1680|
+|5|1|3620|987|
