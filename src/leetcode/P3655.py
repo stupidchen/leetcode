@@ -29,27 +29,3 @@ class FreqStack:
         self.top = i
         self.freq[ret] -= 1
         return ret
-
-
-if __name__ == '__main__':
-    obj = FreqStack()
-    obj.push(1)
-    obj.push(0)
-    obj.push(0)
-    obj.push(1)
-    obj.push(5)
-    obj.push(4)
-    obj.push(1)
-    obj.push(5)
-    obj.push(1)
-    obj.push(6)
-    print(obj.pop())
-    print(obj.pop())
-    print(obj.pop())
-    print(obj.pop())
-    print(obj.pop())
-    print(obj.pop())
-    print(obj.pop())
-    print(obj.pop())
-    print(obj.pop())
-    print(obj.pop())
