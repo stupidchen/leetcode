@@ -695,3 +695,4 @@ This repository includes the **original** solution of algorithm problems from th
 |1|3|3659|268|
 |1|4|3660|160|
 |1|5|3661|637|
+|1|6|3662|820|
