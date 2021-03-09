@@ -702,3 +702,4 @@ This repository includes the **original** solution of algorithm problems from th
 |1|6|3662|820|
 |1|7|3663|706|
 |2|1|3665|1332|
+|2|2|3666|623|
