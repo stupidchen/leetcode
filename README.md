@@ -721,3 +721,4 @@ This repository includes the **original** solution of algorithm problems from th
 |3|7|3679|869|
 |4|1|3681|966|
 |4|2|3682|923|
+|4|3|3683|870|
