@@ -41,13 +41,3 @@ class Solution:
                 if ra[i][j] and rp[i][j]:
                     r.append([i, j])
         return r
-
-
-# For test only
-SI = (([[1, 2, 2, 3, 5], [3, 2, 3, 4, 4], [2, 4, 5, 3, 1], [6, 7, 1, 4, 5], [5, 1, 1, 2, 4]],),)
-SO = ([[0, 4], [1, 3], [1, 4], [2, 2], [3, 0], [3, 1], [4, 0]],)
-TM = 'pacificAtlantic'
-if __name__ == '__main__':
-    from leetcode.PTester import PTester
-
-    PTester(SI, SO, Solution, TM).run()
