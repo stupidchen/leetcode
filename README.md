@@ -734,3 +734,4 @@ This repository includes the **original** solution of algorithm problems from th
 |:---|:---|:----|:----|
 |1|1|3693|234|
 |1|2|3694|474|
+|1|3|3695|32|
