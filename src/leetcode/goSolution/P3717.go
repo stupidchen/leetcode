@@ -1,15 +1,5 @@
 package goSolution
 
-func max(vars ...int) int {
-	r := vars[0]
-	for i := 1; i < len(vars); i++ {
-		if r < vars[i] {
-			r = vars[i]
-		}
-	}
-	return r
-}
-
 func leastBricks(wall [][]int) int {
 	f := make(map[int]int)
 	n := len(wall)
@@ -28,3 +18,4 @@ func leastBricks(wall [][]int) int {
 	}
 	return n - r
 }
+

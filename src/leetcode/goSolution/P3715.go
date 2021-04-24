@@ -2,16 +2,6 @@ package goSolution
 
 import "math"
 
-func min(vars ...int) int {
-	r := vars[0]
-	for i := 1; i < len(vars); i++ {
-		if r > vars[i] {
-			r = vars[i]
-		}
-	}
-	return r
-}
-
 func minimumTotal(triangle [][]int) int {
 	n := len(triangle)
 	for i := 1; i < n; i++ {
