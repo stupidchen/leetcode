@@ -732,7 +732,7 @@ This repository includes the **original** solution of algorithm problems from th
 |4|7|3687|423|
 |5|1|3689|971|
 
-## 30-Day Leetcoding Challenge problem number (April, 2021)
+## 30-Day Leetcoding Challenge problem number (April, 2021 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -765,3 +765,9 @@ This repository includes the **original** solution of algorithm problems from th
 |4|7|3723|63|
 |5|1|3725|34|
 |5|2|3726|970|
+
+## 30-Day Leetcoding Challenge problem number (May, 2021 (Done))
+
+|Week|Day|Real number|Number in problem set|
+|:---|:---|:----|:----|
+|1|1|3728|745|
