@@ -16,6 +16,15 @@ type Node struct {
     Children []*Node
 }
 
+/**
+ * Definition for a binary tree node.
+ */
+type TreeNode struct {
+    Val int
+    Left *TreeNode
+    Right *TreeNode
+}
+
 type FenwickTree struct {
     Val []int
     Len int
