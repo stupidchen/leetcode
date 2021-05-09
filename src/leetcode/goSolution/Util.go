@@ -68,3 +68,11 @@ func IsPalindrome(s string) bool {
 	}
 	return true
 }
+
+func sum(a []int) int {
+	ret := 0
+	for _, v := range a {
+		ret += v
+	}
+	return ret
+}
