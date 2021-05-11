@@ -76,3 +76,12 @@ func sum(a []int) int {
 	}
 	return ret
 }
+
+func GetPrefixSum(a []int) []int {
+	n := len(a)
+	ret := make([]int, n + 1)
+	for i, v := range a {
+		ret[i + 1] = ret[i] + v
+	}
+	return ret
+}
