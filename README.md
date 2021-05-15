@@ -306,10 +306,14 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 232|1791|5702|
 |Weekly Contest 232|1792|5703|
 |Weekly Contest 232|1793|5704|
-|Biweekly Contest 49|5705|5705|
-|Biweekly Contest 49|5706|5706|
-|Biweekly Contest 49|5708|5708|
-|Biweekly Contest 49|5707|5707|
+|Biweekly Contest 49|1812|5705|
+|Biweekly Contest 49|1813|5706|
+|Biweekly Contest 49|1814|5708|
+|Biweekly Contest 49|1815|5707|
+|Biweekly Contest 49|1859|5742|
+|Biweekly Contest 49|1860|5743|
+|Biweekly Contest 49|1861|5744|
+|Biweekly Contest 49|1862|5212|
 
 
 ## 30-Day Leetcoding Challenge problem number (April, 2020) (Done) 
