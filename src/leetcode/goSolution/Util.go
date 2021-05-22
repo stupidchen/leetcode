@@ -85,3 +85,21 @@ func GetPrefixSum(a []int) []int {
 	}
 	return ret
 }
+
+func GetLastBit(x int) int {
+	return x ^ (x & (x - 1))
+}
+
+var LG2MAP = make(map[int]int)
+
+func initLg2Map(n int) {
+	p := 1
+	for i := 0; i < n; i++ {
+		LG2MAP[p] = i + 1
+		p = p << 1
+	}
+}
+
+func lg2(x int) int {
+	return LG2MAP[x] - 1
+}
