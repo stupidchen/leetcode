@@ -103,3 +103,14 @@ func initLg2Map(n int) {
 func lg2(x int) int {
 	return LG2MAP[x] - 1
 }
+
+func Initialize2DIntSlice(n, m, v int) [][]int {
+	ret := make([][]int, n)
+	for i := 0; i < n; i++ {
+		ret[i] = make([]int, m)
+		for j := 0; j < m; j++ {
+			ret[i][j] = v
+		}
+	}
+	return ret
+}
