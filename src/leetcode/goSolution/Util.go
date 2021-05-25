@@ -3,6 +3,7 @@ package goSolution
 import (
 	"reflect"
 	"runtime/debug"
+	"strconv"
 	"strings"
 	"testing"
 	"unicode/utf8"
@@ -113,4 +114,12 @@ func Initialize2DIntSlice(n, m, v int) [][]int {
 		}
 	}
 	return ret
+}
+
+func IsNumeric(x string) bool {
+	_, err := strconv.ParseInt(x, 10, 64)
+	if err != nil {
+		return false
+	}
+	return true
 }
