@@ -123,3 +123,5 @@ func IsNumeric(x string) bool {
 	}
 	return true
 }
+
+const MODULO = 1000000007
