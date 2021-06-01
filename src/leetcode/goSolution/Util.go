@@ -93,6 +93,9 @@ func GetLastBit(x int) int {
 
 var LG2MAP = make(map[int]int)
 
+var DX = []int{1, -1, 0, 0, 1, 1, -1, -1}
+var DY = []int{0, 0, 1, -1, 1, -1, 1, -1}
+
 func initLg2Map(n int) {
 	p := 1
 	for i := 0; i < n; i++ {
