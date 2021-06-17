@@ -76,6 +76,10 @@ func (h *IntMaxHeap) Pop() interface{} {
     return x
 }
 
+func (h *IntMaxHeap) Top() int {
+    return (*h)[0]
+}
+
 type IntTupleMaxHeap [][]int
 func (h IntTupleMaxHeap) Len() int { return len(h) }
 func (h IntTupleMaxHeap) Less(i, j int) bool { return h[i][0] > h[j][0] }
