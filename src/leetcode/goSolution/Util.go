@@ -119,6 +119,17 @@ func Initialize2DIntSlice(n, m, v int) [][]int {
 	return ret
 }
 
+func Initialize2DBoolSlice(n, m int, v bool) [][]bool {
+	ret := make([][]bool, n)
+	for i := 0; i < n; i++ {
+		ret[i] = make([]bool, m)
+		for j := 0; j < m; j++ {
+			ret[i][j] = v
+		}
+	}
+	return ret
+}
+
 func IsNumeric(x string) bool {
 	_, err := strconv.ParseInt(x, 10, 64)
 	if err != nil {
