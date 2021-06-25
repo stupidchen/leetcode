@@ -100,3 +100,43 @@ func (h *IntTupleMaxHeap) Pop() interface{} {
 func (h *IntTupleMaxHeap) Top() []int {
     return (*h)[0]
 }
+
+type DSU struct {
+    Set []int
+    Rank []int
+}
+
+func InitializeDSU(size int) *DSU {
+    ret := &DSU {
+        Set: make([]int, size),
+        Rank: make([]int, size),
+    }
+    ret.Reset()
+    return ret
+}
+func (d *DSU) Reset() {
+    for i := 0; i < d.Len(); i++ {
+        d.Set[i] = i
+        d.Rank[i] = 1
+    }
+}
+func (d *DSU) Len() int { return len(d.Set) }
+func (d *DSU) FindSet(x int) int {
+    var t int
+    for t = x; d.Set[t] != t; t = d.Set[t] {}
+    for ; d.Set[x] != x; {
+        d.Set[x], x = t, d.Set[x]
+    }
+    return t
+}
+func (d *DSU) MergeSet(x, y int) {
+    sx, sy := d.FindSet(x), d.FindSet(y)
+    if d.Rank[sx] > d.Rank[sy] {
+        d.Set[sy] = d.Set[sx]
+    } else {
+        d.Set[sx] = d.Set[sy]
+        if d.Rank[sx] == d.Rank[sy] {
+            d.Rank[sy]++
+        }
+    }
+}
