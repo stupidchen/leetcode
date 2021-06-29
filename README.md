@@ -853,3 +853,4 @@ This repository includes the **original** solution of algorithm problems from th
 |4|5|3792|315|
 |4|6|3793|135|
 |4|7|3794|1047|
+|5|1|3796|1004|
