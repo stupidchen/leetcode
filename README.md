@@ -861,3 +861,5 @@ This repository includes the **original** solution of algorithm problems from th
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
 |1|1|3800|658|
+|1|2|3801|363|
+|1|3|3802|1220|
