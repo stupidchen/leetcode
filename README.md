@@ -910,3 +910,4 @@ This repository includes the **original** solution of algorithm problems from th
 |1|3|3837|90|
 |1|4|3838|113|
 |1|5|3839|877|
+|1|6|3840|429|
