@@ -923,3 +923,4 @@ This repository includes the **original** solution of algorithm problems from th
 |2|6|3888|73|
 |2|7|3889|546|
 |3|1|3891|76|
+|3|2|3892|303|
