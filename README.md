@@ -356,7 +356,7 @@ This repository includes the **original** solution of algorithm problems from th
 |Weekly Contest 256|1987|5857|
 
 
-## 30-Day Leetcoding Challenge problem number (April, 2020) (Done) 
+## 30-Day Leetcoding Challenge problem number (April 2020) (Done) 
 
 |Week|Day|Real number|
 |:---|:---|:----|
@@ -391,7 +391,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|1|3314|
 |5|2|3315|
 
-## 30-Day Leetcoding Challenge problem number (May, 2020) (Done)
+## 30-Day Leetcoding Challenge problem number (May 2020) (Done)
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -427,7 +427,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|2|3345|973|
 |5|3|3346|72|
 
-## 30-Day Leetcoding Challenge problem number (June, 2020) (Done)
+## 30-Day Leetcoding Challenge problem number (June 2020) (Done)
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -462,7 +462,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|1|3375|62|
 |5|2|3376|212|
 
-## 30-Day Leetcoding Challenge problem number (July, 2020 (Done))
+## 30-Day Leetcoding Challenge problem number (July 2020 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -498,7 +498,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|2|3406|140|
 |5|3|3407|70|
 
-## 30-Day Leetcoding Challenge problem number (August, 2020 (Done))
+## 30-Day Leetcoding Challenge problem number (August 2020 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -534,7 +534,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|2|3442|952|
 |5|3|3443|450|
 
-## 30-Day Leetcoding Challenge problem number (September, 2020 (Done))
+## 30-Day Leetcoding Challenge problem number (September 2020 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -569,7 +569,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|1|3477|199|
 |5|2|3478|41|
 
-## 30-Day Leetcoding Challenge problem number (October, 2020 (Done))
+## 30-Day Leetcoding Challenge problem number (October 2020 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -605,7 +605,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|2|3513|673|
 |5|3|3514|99|
 
-## 30-Day Leetcoding Challenge problem number (November, 2020 (Done))
+## 30-Day Leetcoding Challenge problem number (November 2020 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -641,7 +641,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|1|3548|1316|
 |5|2|3549|218|
 
-## 30-Day Leetcoding Challenge problem number (December, 2020 (Done))
+## 30-Day Leetcoding Challenge problem number (December 2020 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -677,7 +677,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|2|3586|289|
 |5|3|3587|84|
 
-## 30-Day Leetcoding Challenge problem number (January, 2021 (Done))
+## 30-Day Leetcoding Challenge problem number (January 2021 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -710,7 +710,7 @@ This repository includes the **original** solution of algorithm problems from th
 |4|6|3618|1680|
 |5|1|3620|987|
 
-## 30-Day Leetcoding Challenge problem number (February, 2021 (Done))
+## 30-Day Leetcoding Challenge problem number (February 2021 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -742,7 +742,7 @@ This repository includes the **original** solution of algorithm problems from th
 |4|6|3654|29|
 |4|7|3655|895|
 
-## 30-Day Leetcoding Challenge problem number (March, 2021 (Done))
+## 30-Day Leetcoding Challenge problem number (March 2021 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -776,7 +776,7 @@ This repository includes the **original** solution of algorithm problems from th
 |4|7|3687|423|
 |5|1|3689|971|
 
-## 30-Day Leetcoding Challenge problem number (April, 2021 (Done))
+## 30-Day Leetcoding Challenge problem number (April 2021 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -810,7 +810,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|1|3725|34|
 |5|2|3726|970|
 
-## 30-Day Leetcoding Challenge problem number (May, 2021 (Done))
+## 30-Day Leetcoding Challenge problem number (May 2021 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -846,7 +846,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|2|3761|164|
 |5|3|3762|1268|
 
-## 30-Day Leetcoding Challenge problem number (June, 2021 (Done))
+## 30-Day Leetcoding Challenge problem number (June 2021 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -880,7 +880,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|1|3796|1004|
 |5|2|3797|236|
 
-## 30-Day Leetcoding Challenge problem number (July, 2021 (Done))
+## 30-Day Leetcoding Challenge problem number (July 2021 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -913,7 +913,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|2|3832|677|
 |5|3|3833|42|
 
-## 30-Day Leetcoding Challenge problem number (August, 2021)
+## 30-Day Leetcoding Challenge problem number (August 2021, Done)
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -945,3 +945,9 @@ This repository includes the **original** solution of algorithm problems from th
 |4|6|3921|522|
 |5|1|3957|598|
 |5|2|3958|153|
+
+## 30-Day Leetcoding Challenge problem number (September 2021)
+
+|Week|Day|Real number|Number in problem set|
+|:---|:---|:----|:----|
+|1|1|3960|565|
