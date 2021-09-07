@@ -955,3 +955,4 @@ This repository includes the **original** solution of algorithm problems from th
 |1|4|3963|834|
 |1|5|3964|899|
 |1|6|3965|1629|
+|1|7|3966|206|
