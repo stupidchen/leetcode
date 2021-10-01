@@ -913,7 +913,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|2|3832|677|
 |5|3|3833|42|
 
-## 30-Day Leetcoding Challenge problem number (August 2021, Done)
+## 30-Day Leetcoding Challenge problem number (August 2021 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
@@ -946,7 +946,7 @@ This repository includes the **original** solution of algorithm problems from th
 |5|1|3957|598|
 |5|2|3958|153|
 
-## 30-Day Leetcoding Challenge problem number (September 2021)
+## 30-Day Leetcoding Challenge problem number (September 2021 (Done))
 
 |Week|Day|Real number|Number in problem set|
 |:---|:---|:----|:----|
