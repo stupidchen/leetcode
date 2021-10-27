@@ -1,12 +1,11 @@
 class Solution:
-    d = 0
-
-    def diameterOfBinaryTree(self, root) -> int:
-        def height(node):
-            if node is None:
-                return 0
-            lh, rh = height(node.left), height(node.right)
-            self.d = max(self.d, (lh + rh))
-            return max(lh, rh) + 1
-        _ = height(root)
-        return self.d
+    def findBottomLeftValue(self, root):
+        q = [root]
+        while q:
+            node = q.pop(0)
+            if not q and not node.left and not node.right:
+                return node.val
+            if node.right:
+                q.append(node.right)
+            if node.left:
+                q.append(node.left)
