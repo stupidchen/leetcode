@@ -14,4 +14,3 @@ class Solution:
             if s[i] in d:
                 return True
         return False
-        
