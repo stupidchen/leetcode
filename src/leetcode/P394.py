@@ -30,5 +30,6 @@ class Solution:
                 stack.append(''.join([p] * n))
         return stack[0]
 
+
 if __name__ == '__main__':
     print(Solution().decodeString('[abc][cd]ef'))
