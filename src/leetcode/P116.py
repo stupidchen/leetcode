@@ -25,8 +25,11 @@ class Solution:
             this, depth = queue[h]
             if h < t and queue[h + 1][1] == depth:
                 this.next = queue[h + 1][0]
+            else:
+                this.next = None
 
             t = self.__add_new_node(queue, t, this.left, depth + 1)
             t = self.__add_new_node(queue, t, this.right, depth + 1)
 
             h += 1
+        return root
