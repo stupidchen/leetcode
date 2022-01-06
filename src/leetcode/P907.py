@@ -1,3 +1,4 @@
+from functools import lru_cache
 from math import log, ceil, floor
 
 MODULO = 10 ** 9 + 7
@@ -6,8 +7,8 @@ f = []
 id = []
 lg = {}
 
-class Solution:
 
+class Solution:
     def findMin(self, l, r):
         t = lg[r - l]
         ret = min(f[l][t], f[r - (1 << t) + 1][t])
@@ -17,6 +18,7 @@ class Solution:
             index = id[r - (1 << t) + 1][t]
         return index, ret
 
+    @lru_cache(maxsize=None)
     def solve(self, l, r):
         if l > r:
             return 0
