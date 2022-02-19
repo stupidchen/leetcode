@@ -28,4 +28,3 @@ class Solution:
         self.solveDepth(root, 0)
         self.solve(root, 0)
         return self.ANS
-    
